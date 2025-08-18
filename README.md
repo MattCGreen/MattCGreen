@@ -1,8 +1,8 @@
 ### 👋 Hey there, I’m Matt (he/him)
 
-🔐 I’m a cybersecurity learner exploring the intersection of AI/ML, scripting, and compliance.  
+🔐 I’m exploring the intersection of AI/ML, scripting, and compliance.  
 🐧 Linux is my current playground.  
-📚 I'm building toward mastery in cloud security, ethical hacking, and threat detection using Python, Linux, and AI models.  
+📚 I'm building toward mastery in cloud security, AI security and compliance, and threat detection using Python, Linux, and AI models.  
 📦 You’ll mostly find me experimenting with automations, command-line tools, and personal testbeds for real-world learning.
 
 ---
